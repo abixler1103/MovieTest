@@ -1,0 +1,73 @@
+#services {
+    background-color: #eeeeee;
+}
+
+header {
+    background-image: url('../img/cinema.jpg');
+}
+
+header .intro-text .intro-heading {
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /*text-transform: uppercase;*/
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 30px;
+    margin-bottom: 25px;
+    margin-left: 80px;
+}
+
+header .intro-text .intro-lead-in {
+    color: #88ABC8;
+    margin-top: -40px;
+}
+
+.btn-xl {
+    margin-top: 30px;
+}
+
+h2 {
+    color: #88ABC8;
+}
+
+.navbar-custom .navbar-brand {
+    color: #88ABC8;
+}
+
+section#contact {
+    background-color: #88ABC8;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#searches {
+    margin-top: 20px;
+}
+
+#aboutUs {
+    font-size: 20px;
+}
+
+#about {
+    padding-bottom: 50px;
+}
+
+#aboutUs {
+    color: gray;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#bees {
+    color: gray;
+    font-size: 20px;
+}
+
+#youtalk {
+    color: #fed136;
+    font-size: 24px;
+}
+
+section#team {
+    padding-bottom: 70px;
+    padding-top: 75px;
+}
