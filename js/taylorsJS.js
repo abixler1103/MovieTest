@@ -209,7 +209,7 @@ $(document).ready(function() {
 
         movieChoice = randomMovie.show_title;
 
-        var removeSpaces = "http://www.omdbapi.com/?t=" + movieChoice + "&apikey=40e9cece";
+        var removeSpaces = "https://www.omdbapi.com/?t=" + movieChoice + "&apikey=40e9cece";
 
         sendSearchDB(movieChoice);
 
